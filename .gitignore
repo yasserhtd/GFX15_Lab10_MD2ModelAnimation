@@ -1,0 +1,8 @@
+*.tlog
+*.log
+Debug/
+Release/
+*.opensdf
+*.suo
+*.user
+*.sdf
